@@ -1,0 +1,71 @@
+.foot {
+    background-blend-mode: overlay;
+    background-image: url("picture-texture.jpg"), linear-gradient(180deg, #474ab6 0%, #9271f6 100%);
+    padding-left: 115px;
+    color: white;
+    text-align: center;
+    height: 500px;
+    padding-top: 96px;
+    padding-right: 151px;
+
+}
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 50%;
+
+}
+
+.fet {
+    background: white;
+    height: 500px;
+    padding: 50px"
+ style="box-shadow: 5px 10px;background:; height:500px;margin-top: 100px"
+}
+
+.fer {
+    background-color: white;
+    box-shadow: 5px;
+    display: flex;
+}
+
+.fre {
+    color: #9271f6;
+    padding-left: 90px;
+}
+
+input {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 20px 20px 20px 20px;
+    color: #a9aaff;
+}
+
+.cd {
+
+    padding-top: 20px;
+    padding-right: 399px;
+    padding-bottom: 114px
+}
+
+.v {
+    background-color: #9271f6;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 100px;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: right;
+}
+
+.cost {
+    background-color: #09e1c0;
+    color: white;
+    padding-bottom: 380px;
+    margin-left: 139px;
+    margin-right: 139px;
+
+}
