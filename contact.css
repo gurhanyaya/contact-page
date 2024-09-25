@@ -1,3 +1,7 @@
+* {
+    font-family: sans-serif;
+}
+
 .foot {
     background-blend-mode: overlay;
     background-image: url("picture-texture.jpg"), linear-gradient(180deg, #474ab6 0%, #9271f6 100%);
@@ -12,11 +16,15 @@
 
 .left {
     width: 50%;
+    margin-top: -312px;
+    background-color: white;
+    margin-left: 119px;
 }
 
 .right {
     width: 50%;
-
+    margin-top: -334px;
+    margin-left: -139px;
 }
 
 .fet {
@@ -67,5 +75,76 @@ input {
     padding-bottom: 380px;
     margin-left: 139px;
     margin-right: 139px;
+    padding-left: 20px;
+}
 
+.bg {
+    margin-top: 10px;
+}
+
+.vilet {
+    padding-bottom: 50px;
+}
+
+.main {
+    color: #9271f6;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.par {
+    color: #8585bd;
+}
+
+
+
+.vd {
+    margin: auto;
+    border-bottom: 2px solid #09e1c0;
+    width: 44px;
+}
+
+.select {
+    display: flex;
+}
+
+.menu-left {
+    width: 33%;
+    margin-right: 52px;
+
+}
+
+.menu-middle {
+    width: 33%;
+    margin-left: 30px;
+    margin-right: 52px;
+}
+
+.menu-right {
+    width: 33%;
+    margin-left: 30px;
+    margin-right: 52px;
+
+}
+
+.para1 {
+    background-color: #09e1c0;
+    width: 61px;
+    font-size: 40px;
+    border-radius: 54%;
+    margin-left: 34px;
+    height: 43px;
+    color: white;
+}
+
+.re {
+    display: flex;
+}
+
+p {
+    color: #8585bd;
+}
+
+.part {
+    color: black;
 }
