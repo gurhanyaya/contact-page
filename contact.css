@@ -11,15 +11,23 @@
     height: 500px;
     padding-top: 96px;
     padding-right: 151px;
+    font-weight: 70;
+    font-size: 22px;
+}
 
+.ss {
+    color: #f0ebd6;
 }
 
 .left {
     width: 50%;
     margin-top: -312px;
     background-color: white;
-    margin-left: 119px;
+    padding-left: 50px;
+    margin-left: 120px;
+    box-shadow: 0px 0px 90px;
 }
+
 
 .right {
     width: 50%;
@@ -30,8 +38,7 @@
 .fet {
     background: white;
     height: 500px;
-    padding: 50px"
- style="box-shadow: 5px 10px;background:; height:500px;margin-top: 100px"
+    padding: 50px
 }
 
 .fer {
@@ -43,53 +50,104 @@
 .fre {
     color: #9271f6;
     padding-left: 90px;
+    padding-top: 30px;
+    font-weight: 700;
+    font-size: 36px;
+    color: #9271f6 !important;
+    padding-bottom: 20px;
+    line-height: 1.3em;
 }
+
 
 input {
     margin-left: 20px;
     margin-bottom: 20px;
     padding: 20px 20px 20px 20px;
     color: #a9aaff;
+    border-width: 1px;
+    border-style: solid;
+    font: size 16px;
+    color: rgba(114, 114, 255, 0.61);
+    padding-right: 65px;
+    border: 1 solid lightgrey;
+
+
+}
+
+.sociel-icon {
+    color: white;
+    padding-right: 10px;
 }
 
 .cd {
 
-    padding-top: 20px;
-    padding-right: 399px;
-    padding-bottom: 114px
+    padding-top: 32px;
+    padding-right: 344px;
+    padding-bottom: 119px
 }
 
 .v {
     background-color: #9271f6;
     color: white;
-    padding: 15px 30px;
+    padding: 15px 50px;
     border-radius: 100px;
-    font-weight: 700;
-    font-size: 16px;
-    text-align: right;
+    margin: auto;
+    margin-left: 359px;
+    border: none;
 }
 
 .cost {
     background-color: #09e1c0;
     color: white;
-    padding-bottom: 380px;
+    padding-bottom: 218px;
     margin-left: 139px;
     margin-right: 139px;
     padding-left: 20px;
+
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.3em;
+
+    width: 346px;
+    padding-top: 21px;
+    margin-top: 21px;
+    color: white;
+    font-size: larger;
+}
+
+.cvz {
+    padding-top: 19px;
+    border-radius: -1%;
+    font-size: large;
+    width: 44%;
+
 }
 
 .bg {
     margin-top: 10px;
+    padding-right: 20px;
 }
 
-.vilet {
-    padding-bottom: 50px;
+.kl {
+    display: flex;
 }
 
 .main {
     color: #9271f6;
     text-align: center;
     margin-top: 100px;
+    font-size: 24px;
+
+    margin-left: 76px;
+    margin-right: 57px;
+}
+
+.para4 {
+    color: white;
+    /* text-align: l; */
+    /* text-align: center; */
+    /* padding-right: 245px; */
+    /* font-size: 21px; */
 }
 
 .par {
@@ -128,13 +186,16 @@ input {
 }
 
 .para1 {
+
     background-color: #09e1c0;
-    width: 61px;
-    font-size: 40px;
+    width: 60px;
+    font-size: 32px;
     border-radius: 54%;
-    margin-left: 34px;
-    height: 43px;
+    margin-left: 37px;
+    height: 41px;
     color: white;
+    margin-top: 19px;
+
 }
 
 .re {
@@ -142,9 +203,160 @@ input {
 }
 
 p {
-    color: #8585bd;
+    color: #a9aaff;
+    font-size: medium;
+
 }
 
 .part {
     color: black;
+    font-size: x-large;
+
+}
+
+.id {
+    background-blend-mode: overlay;
+    background-image: url("picture-texture.jpg"), linear-gradient(180deg, #474ab6 0%, #9271f6 100%);
+    padding-left: 115px;
+    color: white;
+    text-align: center;
+    height: 500px;
+    padding-top: 96px;
+    padding-right: 151px;
+
+
+}
+
+.cdnjs {
+    padding-top: 19px;
+    border-radius: -1%;
+    font-size: large;
+    width: 44%;
+
+}
+
+.para2 {
+
+
+    background-color: #09e1c0;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 100px;
+    font-weight: 700;
+    font-size: 16px;
+    padding-right: 201px;
+    font-size: 25px;
+    padding-left: 190px;
+    border: none;
+}
+
+.section {
+    display: flex;
+}
+
+.section-left {
+    width: 50%;
+    margin-top: -91px;
+    padding-left: 86px;
+  
+}
+
+.section-right {
+    width: 50%;
+    margin-top: -91px;
+    padding-left: 116px;
+ 
+}
+h4 {
+    padding-left: 13px;
+
+}
+
+.red {
+    display: flex;
+    color: #7272ff;
+}
+
+.rel {
+    color: #8589c1;
+    padding-right: 144px;
+    padding-left: 92px;
+    margin-top: -23px;
+}
+
+
+.col {
+    box-shadow: 0px 0px 90px;
+    background-color: white;
+    margin-left: 45px;
+    margin-right: 58px;
+    padding-left: 16px;
+    height: 200px;
+
+}
+
+.cs {
+    padding-left: 70px;
+    color: #474ab6;
+}
+
+.portfolio {
+    color: #8589c1;
+}
+.pat {
+    color: #7272ff;
+    margin-top: 94px;
+    margin-top: 58px;
+}
+.para6 {
+    color:#8585bd ;
+    margin-top: -15px;
+
+
+}
+
+
+.conubia {
+    background-color: #9271f6;
+    color: white;
+    padding: 28px 51px;
+    border-radius: 100px;
+    width: 208px;
+    margin-top: 68px;
+    margin-left: 24px;
+    border: none;
+}
+.con {
+    background-color: white;
+    color: #9271f6;
+    padding: 28px 51px;
+    border-radius: 100px;
+    width: 208px;
+    margin-top: 68px;
+    margin-left: 24px;
+    border: none;
+}
+
+.row {
+    display: flex;
+    background-color: black;
+}
+.row-left {
+    width: 60%;
+    color: #666;
+}
+.row-right {
+    width: 40%;
+    text-align:center ;
+}
+.para5 {
+    color: #666;
+    padding-left: 56px;
+}
+.socie-icon {
+    color: #666;
+    padding-right: 12px;
+    font-size: 30px !important;
+    text-align: right;
+
 }
